@@ -129,6 +129,7 @@
   text-align: center;
   position: relative;
   z-index: 1;
+  margin-top: 0;
 }
 .section-subtitle {
   width: 60%;
@@ -139,6 +140,7 @@
   margin-right: auto;
   position: relative;
   z-index: 1;
+  margin-top: 0;
 }
 .table {
   display: flex;
@@ -196,6 +198,7 @@
   line-height: 1.15;
   font-weight: 600;
   font-size: 120px;
+  margin-top: 0;
 }
 .feynman__subtitle {
   margin: 0;
