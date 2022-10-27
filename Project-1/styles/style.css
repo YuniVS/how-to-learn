@@ -56,7 +56,7 @@
   font-size: 18px;
   z-index: 2;
   left: 64px;
-  margin: 0;
+  margin-bottom: 0;
 }
 .header__link {
   color: #2f80ed;
@@ -141,6 +141,7 @@
   position: relative;
   z-index: 1;
   margin-top: 0;
+  margin-bottom: 0;
 }
 .table {
   display: flex;
